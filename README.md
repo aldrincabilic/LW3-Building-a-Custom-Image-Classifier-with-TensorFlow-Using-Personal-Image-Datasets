@@ -4,6 +4,8 @@
 
 ### Google Drive ImageDataset link: https://drive.google.com/drive/folders/1gqCKPtXaF8xAqBMOz82Q6RH7mIx3r_pA?usp=drive_link
 
+### CNN Model: https://drive.google.com/file/d/1gCTQjwRnqHVZRkcOxE4CeSOZ448YQzt7/view?usp=drive_link
+
 ### Guide Questions (Student Explanation & Reflection)
 
 
